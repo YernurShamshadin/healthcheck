@@ -1,8 +1,8 @@
 {
-  "name":              "adata-team/healthchecker",
+  "name":              "yernurshamshadin/healthchecker",
   "type":              "library",
   "description":       "Package for check some services to health",
-  "homepage":          "https://github.com/adata-team/healthcheck",
+  "homepage":          "https://github.com/YernurShamshadin/healthcheck",
   "keywords":          [
 	"health",
 	"check",
